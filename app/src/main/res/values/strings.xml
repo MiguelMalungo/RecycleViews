@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecycleViews</string>
+    <string name="title_activity_spot_latte_maps_one">SpotLatteMapsActivityOne</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>

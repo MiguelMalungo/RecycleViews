@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2085" />
+        <entry key="app/src/main/res/drawable/ic_baseline_bedtime_24.xml" value="0.2345" />
+        <entry key="app/src/main/res/drawable/ic_baseline_remove_red_eye_24.xml" value="0.2345" />
+        <entry key="app/src/main/res/drawable/img_1003.xml" value="0.1525" />
+        <entry key="app/src/main/res/layout/activity_create_new_post.xml" value="0.227496337890625" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.26502685546875" />
+        <entry key="app/src/main/res/layout/activity_maps.xml" value="0.1157548125633232" />
+        <entry key="app/src/main/res/layout/activity_maps_h.xml" value="0.19759685357894824" />
+        <entry key="app/src/main/res/layout/activity_posts_h.xml" value="0.23802083333333332" />
+        <entry key="app/src/main/res/layout/activity_posts_l.xml" value="0.23802083333333332" />
+        <entry key="app/src/main/res/layout/activity_posts_p.xml" value="0.2164855072463768" />
+        <entry key="app/src/main/res/layout/activity_posts_v.xml" value="0.2164855072463768" />
+        <entry key="app/src/main/res/layout/activity_spot_l.xml" value="0.22395833333333334" />
+        <entry key="app/src/main/res/layout/activity_spot_latte_maps_one.xml" value="0.23802083333333332" />
+        <entry key="app/src/main/res/layout/activity_spots_l.xml" value="0.23802083333333332" />
+        <entry key="app/src/main/res/layout/activity_vans.xml" value="0.15510406494140627" />
+        <entry key="app/src/main/res/layout/fragment_latte_spot_one_maps.xml" value="0.23802083333333332" />
+        <entry key="app/src/main/res/layout/fragment_post_latte_maps_one.xml" value="0.23802083333333332" />
+        <entry key="app/src/main/res/layout/fragment_spot_latte_maps.xml" value="0.23802083333333332" />
+        <entry key="app/src/main/res/layout/fragment_spot_latte_maps_one.xml" value="0.23802083333333332" />
+        <entry key="app/src/main/res/layout/info_window.xml" value="0.28313760066377947" />
+        <entry key="app/src/main/res/layout/list_item.xml" value="0.2920462345731431" />
+        <entry key="app/src/main/res/layout/login.xml" value="0.20193277994791664" />
+        <entry key="app/src/main/res/layout/post_item.xml" value="0.23802083333333332" />
+        <entry key="app/src/main/res/layout/post_latte.xml" value="0.23802083333333332" />
+        <entry key="app/src/main/res/layout/spot_latte.xml" value="0.28812255859375" />
+        <entry key="app/src/main/res/layout/van_item.xml" value="0.3596251556838769" />
+        <entry key="app/src/main/res/layout/van_list.xml" value="0.2440507750580276" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
